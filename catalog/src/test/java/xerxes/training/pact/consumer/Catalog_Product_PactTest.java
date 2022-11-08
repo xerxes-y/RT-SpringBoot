@@ -101,7 +101,7 @@ public class Catalog_Product_PactTest {
           .status(200)
           .body(new PactDslJsonBody()
               .integerType("id", 10L)
-              .stringType("name", "::name::")
+              .stringValue("name", "::name::")
               .stringType("type", "CREDIT_CARD")
               .stringType("version", "::version::")
           )

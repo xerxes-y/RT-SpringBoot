@@ -8,9 +8,9 @@
         <version>2.5.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>victor.training.pact</groupId>
+    <groupId>xerxes.training.pact</groupId>
     <artifactId>pact</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 	<properties>
